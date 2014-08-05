@@ -1,5 +1,5 @@
 
-### About
+## About
 
 This repository is just like the main [4k][] repository, except that it includes
 a simple effect. It can be used to easily test different game loop
