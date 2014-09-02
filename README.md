@@ -13,3 +13,10 @@ It should look like this:
 
 [4k]: https://github.com/Beluki/4k
 
+## Status
+
+This program is finished!
+
+4k-Example is feature-complete and has no known bugs. Unless issues are reported
+I plan no further development on it other than maintenance.
+
